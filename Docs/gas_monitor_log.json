@@ -1,0 +1,1306 @@
+[
+  {
+    "timestamp": "2025-06-16 23:34:42",
+    "gas_value": 175
+  },
+  {
+    "timestamp": "2025-06-16 23:36:14",
+    "gas_value": 214
+  },
+  {
+    "timestamp": "2025-06-16 23:36:15",
+    "gas_value": 250
+  },
+  {
+    "timestamp": "2025-06-16 23:36:16",
+    "gas_value": 277
+  },
+  {
+    "timestamp": "2025-06-16 23:36:17",
+    "gas_value": 251
+  },
+  {
+    "timestamp": "2025-06-16 23:36:18",
+    "gas_value": 232
+  },
+  {
+    "timestamp": "2025-06-16 23:36:19",
+    "gas_value": 219
+  },
+  {
+    "timestamp": "2025-06-16 23:36:21",
+    "gas_value": 205
+  },
+  {
+    "timestamp": "2025-06-16 23:36:24",
+    "gas_value": 194
+  },
+  {
+    "timestamp": "2025-06-16 23:36:34",
+    "gas_value": 184
+  },
+  {
+    "timestamp": "2025-06-16 23:36:57",
+    "gas_value": 203
+  },
+  {
+    "timestamp": "2025-06-16 23:36:58",
+    "gas_value": 239
+  },
+  {
+    "timestamp": "2025-06-16 23:36:59",
+    "gas_value": 262
+  },
+  {
+    "timestamp": "2025-06-16 23:37:00",
+    "gas_value": 272
+  },
+  {
+    "timestamp": "2025-06-16 23:37:01",
+    "gas_value": 287
+  },
+  {
+    "timestamp": "2025-06-16 23:37:02",
+    "gas_value": 267
+  },
+  {
+    "timestamp": "2025-06-16 23:37:03",
+    "gas_value": 244
+  },
+  {
+    "timestamp": "2025-06-16 23:37:04",
+    "gas_value": 231
+  },
+  {
+    "timestamp": "2025-06-16 23:37:05",
+    "gas_value": 221
+  },
+  {
+    "timestamp": "2025-06-16 23:37:07",
+    "gas_value": 208
+  },
+  {
+    "timestamp": "2025-06-16 23:37:10",
+    "gas_value": 197
+  },
+  {
+    "timestamp": "2025-06-16 23:37:16",
+    "gas_value": 187
+  },
+  {
+    "timestamp": "2025-06-16 23:37:27",
+    "gas_value": 211
+  },
+  {
+    "timestamp": "2025-06-16 23:37:28",
+    "gas_value": 225
+  },
+  {
+    "timestamp": "2025-06-16 23:37:29",
+    "gas_value": 274
+  },
+  {
+    "timestamp": "2025-06-16 23:37:31",
+    "gas_value": 332
+  },
+  {
+    "timestamp": "2025-06-16 23:37:32",
+    "gas_value": 375
+  },
+  {
+    "timestamp": "2025-06-16 23:37:33",
+    "gas_value": 328
+  },
+  {
+    "timestamp": "2025-06-16 23:37:34",
+    "gas_value": 272
+  },
+  {
+    "timestamp": "2025-06-16 23:37:35",
+    "gas_value": 251
+  },
+  {
+    "timestamp": "2025-06-16 23:37:36",
+    "gas_value": 230
+  },
+  {
+    "timestamp": "2025-06-16 23:37:37",
+    "gas_value": 220
+  },
+  {
+    "timestamp": "2025-06-16 23:37:38",
+    "gas_value": 210
+  },
+  {
+    "timestamp": "2025-06-16 23:37:40",
+    "gas_value": 268
+  },
+  {
+    "timestamp": "2025-06-16 23:37:42",
+    "gas_value": 246
+  },
+  {
+    "timestamp": "2025-06-16 23:37:43",
+    "gas_value": 231
+  },
+  {
+    "timestamp": "2025-06-16 23:37:44",
+    "gas_value": 221
+  },
+  {
+    "timestamp": "2025-06-16 23:37:46",
+    "gas_value": 234
+  },
+  {
+    "timestamp": "2025-06-16 23:37:48",
+    "gas_value": 215
+  },
+  {
+    "timestamp": "2025-06-16 23:37:51",
+    "gas_value": 280
+  },
+  {
+    "timestamp": "2025-06-16 23:37:52",
+    "gas_value": 299
+  },
+  {
+    "timestamp": "2025-06-16 23:37:53",
+    "gas_value": 255
+  },
+  {
+    "timestamp": "2025-06-16 23:37:54",
+    "gas_value": 244
+  },
+  {
+    "timestamp": "2025-06-16 23:37:57",
+    "gas_value": 231
+  },
+  {
+    "timestamp": "2025-06-16 23:37:59",
+    "gas_value": 332
+  },
+  {
+    "timestamp": "2025-06-16 23:38:00",
+    "gas_value": 386
+  },
+  {
+    "timestamp": "2025-06-16 23:38:01",
+    "gas_value": 442
+  },
+  {
+    "timestamp": "2025-06-16 23:38:02",
+    "gas_value": 461
+  },
+  {
+    "timestamp": "2025-06-16 23:38:03",
+    "gas_value": 437
+  },
+  {
+    "timestamp": "2025-06-16 23:38:04",
+    "gas_value": 464
+  },
+  {
+    "timestamp": "2025-06-16 23:38:05",
+    "gas_value": 384
+  },
+  {
+    "timestamp": "2025-06-16 23:38:06",
+    "gas_value": 341
+  },
+  {
+    "timestamp": "2025-06-16 23:38:07",
+    "gas_value": 318
+  },
+  {
+    "timestamp": "2025-06-16 23:38:08",
+    "gas_value": 292
+  },
+  {
+    "timestamp": "2025-06-16 23:38:09",
+    "gas_value": 270
+  },
+  {
+    "timestamp": "2025-06-16 23:38:11",
+    "gas_value": 316
+  },
+  {
+    "timestamp": "2025-06-16 23:38:12",
+    "gas_value": 303
+  },
+  {
+    "timestamp": "2025-06-16 23:38:13",
+    "gas_value": 285
+  },
+  {
+    "timestamp": "2025-06-16 23:38:14",
+    "gas_value": 524
+  },
+  {
+    "timestamp": "2025-06-16 23:38:15",
+    "gas_value": 610
+  },
+  {
+    "timestamp": "2025-06-16 23:38:16",
+    "gas_value": 578
+  },
+  {
+    "timestamp": "2025-06-16 23:38:17",
+    "gas_value": 484
+  },
+  {
+    "timestamp": "2025-06-16 23:38:18",
+    "gas_value": 448
+  },
+  {
+    "timestamp": "2025-06-16 23:38:19",
+    "gas_value": 416
+  },
+  {
+    "timestamp": "2025-06-16 23:38:22",
+    "gas_value": 360
+  },
+  {
+    "timestamp": "2025-06-16 23:38:23",
+    "gas_value": 322
+  },
+  {
+    "timestamp": "2025-06-16 23:38:24",
+    "gas_value": 297
+  },
+  {
+    "timestamp": "2025-06-16 23:38:25",
+    "gas_value": 383
+  },
+  {
+    "timestamp": "2025-06-16 23:38:26",
+    "gas_value": 444
+  },
+  {
+    "timestamp": "2025-06-16 23:38:27",
+    "gas_value": 613
+  },
+  {
+    "timestamp": "2025-06-16 23:38:28",
+    "gas_value": 591
+  },
+  {
+    "timestamp": "2025-06-16 23:38:30",
+    "gas_value": 547
+  },
+  {
+    "timestamp": "2025-06-16 23:38:31",
+    "gas_value": 467
+  },
+  {
+    "timestamp": "2025-06-16 23:38:32",
+    "gas_value": 414
+  },
+  {
+    "timestamp": "2025-06-16 23:38:33",
+    "gas_value": 369
+  },
+  {
+    "timestamp": "2025-06-16 23:38:34",
+    "gas_value": 336
+  },
+  {
+    "timestamp": "2025-06-16 23:38:35",
+    "gas_value": 322
+  },
+  {
+    "timestamp": "2025-06-16 23:38:36",
+    "gas_value": 299
+  },
+  {
+    "timestamp": "2025-06-16 23:38:38",
+    "gas_value": 277
+  },
+  {
+    "timestamp": "2025-06-16 23:38:40",
+    "gas_value": 256
+  },
+  {
+    "timestamp": "2025-06-16 23:38:43",
+    "gas_value": 245
+  },
+  {
+    "timestamp": "2025-06-16 23:38:46",
+    "gas_value": 231
+  },
+  {
+    "timestamp": "2025-06-16 23:38:52",
+    "gas_value": 221
+  },
+  {
+    "timestamp": "2025-06-16 23:38:59",
+    "gas_value": 208
+  },
+  {
+    "timestamp": "2025-06-16 23:39:02",
+    "gas_value": 236
+  },
+  {
+    "timestamp": "2025-06-16 23:39:03",
+    "gas_value": 256
+  },
+  {
+    "timestamp": "2025-06-16 23:39:04",
+    "gas_value": 270
+  },
+  {
+    "timestamp": "2025-06-16 23:39:05",
+    "gas_value": 287
+  },
+  {
+    "timestamp": "2025-06-16 23:39:06",
+    "gas_value": 251
+  },
+  {
+    "timestamp": "2025-06-16 23:39:07",
+    "gas_value": 235
+  },
+  {
+    "timestamp": "2025-06-16 23:39:09",
+    "gas_value": 225
+  },
+  {
+    "timestamp": "2025-06-16 23:39:10",
+    "gas_value": 250
+  },
+  {
+    "timestamp": "2025-06-16 23:39:11",
+    "gas_value": 279
+  },
+  {
+    "timestamp": "2025-06-16 23:39:13",
+    "gas_value": 299
+  },
+  {
+    "timestamp": "2025-06-16 23:39:14",
+    "gas_value": 309
+  },
+  {
+    "timestamp": "2025-06-16 23:39:17",
+    "gas_value": 323
+  },
+  {
+    "timestamp": "2025-06-16 23:39:18",
+    "gas_value": 292
+  },
+  {
+    "timestamp": "2025-06-16 23:39:19",
+    "gas_value": 256
+  },
+  {
+    "timestamp": "2025-06-16 23:39:21",
+    "gas_value": 234
+  },
+  {
+    "timestamp": "2025-06-16 23:39:22",
+    "gas_value": 222
+  },
+  {
+    "timestamp": "2025-06-16 23:39:23",
+    "gas_value": 212
+  },
+  {
+    "timestamp": "2025-06-16 23:39:30",
+    "gas_value": 202
+  },
+  {
+    "timestamp": "2025-06-16 23:39:40",
+    "gas_value": 192
+  },
+  {
+    "timestamp": "2025-06-16 23:40:23",
+    "gas_value": 182
+  },
+  {
+    "timestamp": "2025-06-16 23:41:23",
+    "gas_value": 202
+  },
+  {
+    "timestamp": "2025-06-16 23:41:24",
+    "gas_value": 237
+  },
+  {
+    "timestamp": "2025-06-16 23:41:25",
+    "gas_value": 261
+  },
+  {
+    "timestamp": "2025-06-16 23:41:26",
+    "gas_value": 275
+  },
+  {
+    "timestamp": "2025-06-16 23:41:27",
+    "gas_value": 286
+  },
+  {
+    "timestamp": "2025-06-16 23:41:29",
+    "gas_value": 250
+  },
+  {
+    "timestamp": "2025-06-16 23:41:30",
+    "gas_value": 233
+  },
+  {
+    "timestamp": "2025-06-16 23:41:31",
+    "gas_value": 220
+  },
+  {
+    "timestamp": "2025-06-16 23:41:33",
+    "gas_value": 205
+  },
+  {
+    "timestamp": "2025-06-16 23:41:36",
+    "gas_value": 223
+  },
+  {
+    "timestamp": "2025-06-16 23:41:37",
+    "gas_value": 242
+  },
+  {
+    "timestamp": "2025-06-16 23:41:38",
+    "gas_value": 259
+  },
+  {
+    "timestamp": "2025-06-16 23:41:40",
+    "gas_value": 269
+  },
+  {
+    "timestamp": "2025-06-16 23:41:42",
+    "gas_value": 258
+  },
+  {
+    "timestamp": "2025-06-16 23:41:43",
+    "gas_value": 237
+  },
+  {
+    "timestamp": "2025-06-16 23:41:44",
+    "gas_value": 226
+  },
+  {
+    "timestamp": "2025-06-16 23:41:46",
+    "gas_value": 212
+  },
+  {
+    "timestamp": "2025-06-16 23:41:49",
+    "gas_value": 200
+  },
+  {
+    "timestamp": "2025-06-16 23:41:55",
+    "gas_value": 189
+  },
+  {
+    "timestamp": "2025-06-16 23:42:07",
+    "gas_value": 179
+  },
+  {
+    "timestamp": "2025-06-16 23:47:08",
+    "gas_value": 181
+  },
+  {
+    "timestamp": "2025-06-18 00:04:04",
+    "gas_value": 523
+  },
+  {
+    "timestamp": "2025-06-18 00:04:05",
+    "gas_value": 502
+  },
+  {
+    "timestamp": "2025-06-18 00:04:06",
+    "gas_value": 490
+  },
+  {
+    "timestamp": "2025-06-18 00:04:08",
+    "gas_value": 479
+  },
+  {
+    "timestamp": "2025-06-18 00:04:10",
+    "gas_value": 464
+  },
+  {
+    "timestamp": "2025-06-18 00:04:12",
+    "gas_value": 447
+  },
+  {
+    "timestamp": "2025-06-18 00:04:14",
+    "gas_value": 435
+  },
+  {
+    "timestamp": "2025-06-18 00:04:16",
+    "gas_value": 424
+  },
+  {
+    "timestamp": "2025-06-18 00:04:19",
+    "gas_value": 412
+  },
+  {
+    "timestamp": "2025-06-18 00:04:21",
+    "gas_value": 400
+  },
+  {
+    "timestamp": "2025-06-18 00:04:26",
+    "gas_value": 389
+  },
+  {
+    "timestamp": "2025-06-18 00:04:31",
+    "gas_value": 376
+  },
+  {
+    "timestamp": "2025-06-18 00:04:35",
+    "gas_value": 366
+  },
+  {
+    "timestamp": "2025-06-18 00:04:41",
+    "gas_value": 356
+  },
+  {
+    "timestamp": "2025-06-18 00:04:47",
+    "gas_value": 345
+  },
+  {
+    "timestamp": "2025-06-18 00:04:56",
+    "gas_value": 334
+  },
+  {
+    "timestamp": "2025-06-18 00:05:04",
+    "gas_value": 324
+  },
+  {
+    "timestamp": "2025-06-18 00:05:17",
+    "gas_value": 313
+  },
+  {
+    "timestamp": "2025-06-18 00:05:29",
+    "gas_value": 303
+  },
+  {
+    "timestamp": "2025-06-18 00:05:43",
+    "gas_value": 293
+  },
+  {
+    "timestamp": "2025-06-18 00:06:05",
+    "gas_value": 283
+  },
+  {
+    "timestamp": "2025-06-18 00:06:28",
+    "gas_value": 273
+  },
+  {
+    "timestamp": "2025-06-18 00:07:03",
+    "gas_value": 261
+  },
+  {
+    "timestamp": "2025-06-18 00:07:53",
+    "gas_value": 250
+  },
+  {
+    "timestamp": "2025-06-18 11:02:36",
+    "gas_value": 209
+  },
+  {
+    "timestamp": "2025-06-18 11:03:02",
+    "gas_value": 233
+  },
+  {
+    "timestamp": "2025-06-18 11:03:03",
+    "gas_value": 269
+  },
+  {
+    "timestamp": "2025-06-18 11:03:05",
+    "gas_value": 288
+  },
+  {
+    "timestamp": "2025-06-18 11:03:06",
+    "gas_value": 304
+  },
+  {
+    "timestamp": "2025-06-18 11:03:07",
+    "gas_value": 321
+  },
+  {
+    "timestamp": "2025-06-18 11:03:08",
+    "gas_value": 340
+  },
+  {
+    "timestamp": "2025-06-18 11:03:10",
+    "gas_value": 359
+  },
+  {
+    "timestamp": "2025-06-18 11:03:11",
+    "gas_value": 311
+  },
+  {
+    "timestamp": "2025-06-18 11:03:12",
+    "gas_value": 291
+  },
+  {
+    "timestamp": "2025-06-18 11:03:13",
+    "gas_value": 277
+  },
+  {
+    "timestamp": "2025-06-18 11:03:15",
+    "gas_value": 259
+  },
+  {
+    "timestamp": "2025-06-18 11:03:17",
+    "gas_value": 245
+  },
+  {
+    "timestamp": "2025-06-18 11:03:20",
+    "gas_value": 235
+  },
+  {
+    "timestamp": "2025-06-18 11:03:23",
+    "gas_value": 224
+  },
+  {
+    "timestamp": "2025-06-18 11:03:37",
+    "gas_value": 236
+  },
+  {
+    "timestamp": "2025-06-18 11:03:38",
+    "gas_value": 249
+  },
+  {
+    "timestamp": "2025-06-18 11:03:39",
+    "gas_value": 235
+  },
+  {
+    "timestamp": "2025-06-18 11:03:41",
+    "gas_value": 210
+  },
+  {
+    "timestamp": "2025-06-18 11:03:42",
+    "gas_value": 235
+  },
+  {
+    "timestamp": "2025-06-18 11:03:46",
+    "gas_value": 225
+  },
+  {
+    "timestamp": "2025-06-18 11:03:48",
+    "gas_value": 212
+  },
+  {
+    "timestamp": "2025-06-18 11:03:55",
+    "gas_value": 226
+  },
+  {
+    "timestamp": "2025-06-18 11:03:56",
+    "gas_value": 243
+  },
+  {
+    "timestamp": "2025-06-18 11:03:57",
+    "gas_value": 280
+  },
+  {
+    "timestamp": "2025-06-18 11:03:58",
+    "gas_value": 293
+  },
+  {
+    "timestamp": "2025-06-18 11:03:59",
+    "gas_value": 313
+  },
+  {
+    "timestamp": "2025-06-18 11:04:00",
+    "gas_value": 324
+  },
+  {
+    "timestamp": "2025-06-18 11:04:01",
+    "gas_value": 335
+  },
+  {
+    "timestamp": "2025-06-18 11:04:03",
+    "gas_value": 306
+  },
+  {
+    "timestamp": "2025-06-18 11:04:04",
+    "gas_value": 285
+  },
+  {
+    "timestamp": "2025-06-18 11:04:05",
+    "gas_value": 272
+  },
+  {
+    "timestamp": "2025-06-18 11:04:07",
+    "gas_value": 256
+  },
+  {
+    "timestamp": "2025-06-18 11:04:09",
+    "gas_value": 245
+  },
+  {
+    "timestamp": "2025-06-18 11:04:12",
+    "gas_value": 235
+  },
+  {
+    "timestamp": "2025-06-18 11:04:16",
+    "gas_value": 225
+  },
+  {
+    "timestamp": "2025-06-18 11:04:21",
+    "gas_value": 214
+  },
+  {
+    "timestamp": "2025-06-18 11:04:52",
+    "gas_value": 204
+  },
+  {
+    "timestamp": "2025-06-18 11:06:11",
+    "gas_value": 255
+  },
+  {
+    "timestamp": "2025-06-18 11:06:12",
+    "gas_value": 280
+  },
+  {
+    "timestamp": "2025-06-18 11:06:13",
+    "gas_value": 302
+  },
+  {
+    "timestamp": "2025-06-18 11:06:14",
+    "gas_value": 326
+  },
+  {
+    "timestamp": "2025-06-18 11:06:15",
+    "gas_value": 341
+  },
+  {
+    "timestamp": "2025-06-18 11:06:18",
+    "gas_value": 301
+  },
+  {
+    "timestamp": "2025-06-18 11:06:19",
+    "gas_value": 286
+  },
+  {
+    "timestamp": "2025-06-18 11:06:20",
+    "gas_value": 272
+  },
+  {
+    "timestamp": "2025-06-18 11:06:21",
+    "gas_value": 262
+  },
+  {
+    "timestamp": "2025-06-18 11:06:23",
+    "gas_value": 248
+  },
+  {
+    "timestamp": "2025-06-18 11:06:26",
+    "gas_value": 232
+  },
+  {
+    "timestamp": "2025-06-18 11:06:31",
+    "gas_value": 222
+  },
+  {
+    "timestamp": "2025-06-18 11:06:40",
+    "gas_value": 211
+  },
+  {
+    "timestamp": "2025-06-18 11:06:41",
+    "gas_value": 249
+  },
+  {
+    "timestamp": "2025-06-18 11:06:44",
+    "gas_value": 283
+  },
+  {
+    "timestamp": "2025-06-18 11:06:47",
+    "gas_value": 301
+  },
+  {
+    "timestamp": "2025-06-18 11:06:48",
+    "gas_value": 315
+  },
+  {
+    "timestamp": "2025-06-18 11:06:49",
+    "gas_value": 282
+  },
+  {
+    "timestamp": "2025-06-18 11:06:50",
+    "gas_value": 269
+  },
+  {
+    "timestamp": "2025-06-18 11:06:52",
+    "gas_value": 253
+  },
+  {
+    "timestamp": "2025-06-18 11:06:54",
+    "gas_value": 243
+  },
+  {
+    "timestamp": "2025-06-18 11:06:57",
+    "gas_value": 232
+  },
+  {
+    "timestamp": "2025-06-18 11:07:02",
+    "gas_value": 222
+  },
+  {
+    "timestamp": "2025-06-18 11:07:13",
+    "gas_value": 212
+  },
+  {
+    "timestamp": "2025-06-18 11:07:44",
+    "gas_value": 202
+  },
+  {
+    "timestamp": "2025-06-18 11:08:59",
+    "gas_value": 203
+  },
+  {
+    "timestamp": "2025-06-18 11:19:41",
+    "gas_value": 234
+  },
+  {
+    "timestamp": "2025-06-18 11:19:42",
+    "gas_value": 205
+  },
+  {
+    "timestamp": "2025-06-18 11:20:02",
+    "gas_value": 193
+  },
+  {
+    "timestamp": "2025-06-18 11:20:07",
+    "gas_value": 203
+  },
+  {
+    "timestamp": "2025-06-18 11:20:18",
+    "gas_value": 213
+  },
+  {
+    "timestamp": "2025-06-18 11:20:29",
+    "gas_value": 243
+  },
+  {
+    "timestamp": "2025-06-18 11:20:31",
+    "gas_value": 257
+  },
+  {
+    "timestamp": "2025-06-18 11:20:32",
+    "gas_value": 287
+  },
+  {
+    "timestamp": "2025-06-18 11:20:33",
+    "gas_value": 315
+  },
+  {
+    "timestamp": "2025-06-18 11:20:35",
+    "gas_value": 291
+  },
+  {
+    "timestamp": "2025-06-18 11:20:36",
+    "gas_value": 276
+  },
+  {
+    "timestamp": "2025-06-18 11:20:38",
+    "gas_value": 260
+  },
+  {
+    "timestamp": "2025-06-18 11:20:40",
+    "gas_value": 250
+  },
+  {
+    "timestamp": "2025-06-18 11:20:43",
+    "gas_value": 240
+  },
+  {
+    "timestamp": "2025-06-18 11:20:47",
+    "gas_value": 230
+  },
+  {
+    "timestamp": "2025-06-18 11:20:54",
+    "gas_value": 220
+  },
+  {
+    "timestamp": "2025-06-18 13:13:29",
+    "gas_value": 280
+  },
+  {
+    "timestamp": "2025-06-18 13:13:43",
+    "gas_value": 270
+  },
+  {
+    "timestamp": "2025-06-18 13:14:00",
+    "gas_value": 260
+  },
+  {
+    "timestamp": "2025-06-18 13:14:37",
+    "gas_value": 250
+  },
+  {
+    "timestamp": "2025-06-18 13:25:11",
+    "gas_value": 231
+  },
+  {
+    "timestamp": "2025-06-18 13:26:00",
+    "gas_value": 253
+  },
+  {
+    "timestamp": "2025-06-18 13:26:01",
+    "gas_value": 302
+  },
+  {
+    "timestamp": "2025-06-18 13:26:04",
+    "gas_value": 289
+  },
+  {
+    "timestamp": "2025-06-18 13:26:06",
+    "gas_value": 273
+  },
+  {
+    "timestamp": "2025-06-18 13:26:09",
+    "gas_value": 261
+  },
+  {
+    "timestamp": "2025-06-18 13:26:15",
+    "gas_value": 251
+  },
+  {
+    "timestamp": "2025-06-18 13:26:24",
+    "gas_value": 241
+  },
+  {
+    "timestamp": "2025-06-18 13:26:44",
+    "gas_value": 230
+  },
+  {
+    "timestamp": "2025-06-18 13:28:50",
+    "gas_value": 233
+  },
+  {
+    "timestamp": "2025-06-18 13:28:53",
+    "gas_value": 301
+  },
+  {
+    "timestamp": "2025-06-18 13:28:54",
+    "gas_value": 341
+  },
+  {
+    "timestamp": "2025-06-18 13:28:55",
+    "gas_value": 366
+  },
+  {
+    "timestamp": "2025-06-18 13:28:56",
+    "gas_value": 353
+  },
+  {
+    "timestamp": "2025-06-18 13:28:57",
+    "gas_value": 335
+  },
+  {
+    "timestamp": "2025-06-18 13:28:58",
+    "gas_value": 321
+  },
+  {
+    "timestamp": "2025-06-18 13:28:59",
+    "gas_value": 310
+  },
+  {
+    "timestamp": "2025-06-18 13:29:00",
+    "gas_value": 299
+  },
+  {
+    "timestamp": "2025-06-18 13:29:02",
+    "gas_value": 284
+  },
+  {
+    "timestamp": "2025-06-18 13:29:04",
+    "gas_value": 274
+  },
+  {
+    "timestamp": "2025-06-18 13:29:07",
+    "gas_value": 264
+  },
+  {
+    "timestamp": "2025-06-18 13:29:12",
+    "gas_value": 254
+  },
+  {
+    "timestamp": "2025-06-18 13:29:22",
+    "gas_value": 244
+  },
+  {
+    "timestamp": "2025-06-18 13:29:47",
+    "gas_value": 234
+  },
+  {
+    "timestamp": "2025-06-18 23:29:58",
+    "gas_value": 682
+  },
+  {
+    "timestamp": "2025-06-18 23:29:59",
+    "gas_value": 721
+  },
+  {
+    "timestamp": "2025-06-18 23:30:00",
+    "gas_value": 739
+  },
+  {
+    "timestamp": "2025-06-18 23:30:01",
+    "gas_value": 749
+  },
+  {
+    "timestamp": "2025-06-18 23:30:03",
+    "gas_value": 763
+  },
+  {
+    "timestamp": "2025-06-18 23:30:10",
+    "gas_value": 746
+  },
+  {
+    "timestamp": "2025-06-18 23:30:14",
+    "gas_value": 731
+  },
+  {
+    "timestamp": "2025-06-18 23:30:18",
+    "gas_value": 719
+  },
+  {
+    "timestamp": "2025-06-18 23:30:20",
+    "gas_value": 703
+  },
+  {
+    "timestamp": "2025-06-18 23:30:23",
+    "gas_value": 686
+  },
+  {
+    "timestamp": "2025-06-18 23:30:27",
+    "gas_value": 671
+  },
+  {
+    "timestamp": "2025-06-18 23:30:31",
+    "gas_value": 656
+  },
+  {
+    "timestamp": "2025-06-18 23:30:33",
+    "gas_value": 644
+  },
+  {
+    "timestamp": "2025-06-18 23:30:34",
+    "gas_value": 630
+  },
+  {
+    "timestamp": "2025-06-18 23:30:37",
+    "gas_value": 617
+  },
+  {
+    "timestamp": "2025-06-18 23:30:41",
+    "gas_value": 607
+  },
+  {
+    "timestamp": "2025-06-18 23:30:45",
+    "gas_value": 595
+  },
+  {
+    "timestamp": "2025-06-18 23:30:47",
+    "gas_value": 581
+  },
+  {
+    "timestamp": "2025-06-18 23:30:50",
+    "gas_value": 570
+  },
+  {
+    "timestamp": "2025-06-18 23:30:54",
+    "gas_value": 559
+  },
+  {
+    "timestamp": "2025-06-18 23:30:58",
+    "gas_value": 547
+  },
+  {
+    "timestamp": "2025-06-18 23:31:06",
+    "gas_value": 537
+  },
+  {
+    "timestamp": "2025-06-18 23:31:09",
+    "gas_value": 524
+  },
+  {
+    "timestamp": "2025-06-18 23:31:12",
+    "gas_value": 514
+  },
+  {
+    "timestamp": "2025-06-18 23:31:14",
+    "gas_value": 502
+  },
+  {
+    "timestamp": "2025-06-18 23:31:23",
+    "gas_value": 492
+  },
+  {
+    "timestamp": "2025-06-18 23:31:31",
+    "gas_value": 477
+  },
+  {
+    "timestamp": "2025-06-18 23:31:40",
+    "gas_value": 466
+  },
+  {
+    "timestamp": "2025-06-18 23:31:56",
+    "gas_value": 456
+  },
+  {
+    "timestamp": "2025-06-18 23:32:03",
+    "gas_value": 445
+  },
+  {
+    "timestamp": "2025-06-18 23:32:14",
+    "gas_value": 435
+  },
+  {
+    "timestamp": "2025-06-18 23:32:24",
+    "gas_value": 425
+  },
+  {
+    "timestamp": "2025-06-18 23:32:35",
+    "gas_value": 415
+  },
+  {
+    "timestamp": "2025-06-18 23:32:46",
+    "gas_value": 405
+  },
+  {
+    "timestamp": "2025-06-18 23:32:58",
+    "gas_value": 395
+  },
+  {
+    "timestamp": "2025-06-18 23:33:20",
+    "gas_value": 384
+  },
+  {
+    "timestamp": "2025-06-18 23:33:43",
+    "gas_value": 372
+  },
+  {
+    "timestamp": "2025-06-18 23:34:13",
+    "gas_value": 362
+  },
+  {
+    "timestamp": "2025-06-18 23:34:51",
+    "gas_value": 352
+  },
+  {
+    "timestamp": "2025-06-18 23:35:33",
+    "gas_value": 342
+  },
+  {
+    "timestamp": "2025-06-18 23:37:02",
+    "gas_value": 331
+  },
+  {
+    "timestamp": "2025-06-18 23:39:09",
+    "gas_value": 321
+  },
+  {
+    "timestamp": "2025-06-18 23:42:26",
+    "gas_value": 311
+  },
+  {
+    "timestamp": "2025-06-18 23:49:24",
+    "gas_value": 328
+  },
+  {
+    "timestamp": "2025-06-18 23:49:25",
+    "gas_value": 343
+  },
+  {
+    "timestamp": "2025-06-18 23:49:30",
+    "gas_value": 330
+  },
+  {
+    "timestamp": "2025-06-18 23:49:36",
+    "gas_value": 358
+  },
+  {
+    "timestamp": "2025-06-18 23:49:39",
+    "gas_value": 348
+  },
+  {
+    "timestamp": "2025-06-18 23:49:43",
+    "gas_value": 336
+  },
+  {
+    "timestamp": "2025-06-18 23:49:45",
+    "gas_value": 346
+  },
+  {
+    "timestamp": "2025-06-18 23:49:48",
+    "gas_value": 356
+  },
+  {
+    "timestamp": "2025-06-18 23:49:50",
+    "gas_value": 345
+  },
+  {
+    "timestamp": "2025-06-18 23:49:54",
+    "gas_value": 335
+  },
+  {
+    "timestamp": "2025-06-18 23:49:58",
+    "gas_value": 346
+  },
+  {
+    "timestamp": "2025-06-18 23:50:02",
+    "gas_value": 336
+  },
+  {
+    "timestamp": "2025-06-18 23:50:10",
+    "gas_value": 348
+  },
+  {
+    "timestamp": "2025-06-18 23:50:17",
+    "gas_value": 338
+  },
+  {
+    "timestamp": "2025-06-18 23:50:42",
+    "gas_value": 365
+  },
+  {
+    "timestamp": "2025-06-18 23:50:43",
+    "gas_value": 400
+  },
+  {
+    "timestamp": "2025-06-18 23:50:45",
+    "gas_value": 384
+  },
+  {
+    "timestamp": "2025-06-18 23:50:46",
+    "gas_value": 373
+  },
+  {
+    "timestamp": "2025-06-18 23:50:48",
+    "gas_value": 361
+  },
+  {
+    "timestamp": "2025-06-18 23:50:51",
+    "gas_value": 371
+  },
+  {
+    "timestamp": "2025-06-18 23:50:52",
+    "gas_value": 406
+  },
+  {
+    "timestamp": "2025-06-18 23:50:53",
+    "gas_value": 426
+  },
+  {
+    "timestamp": "2025-06-18 23:50:54",
+    "gas_value": 414
+  },
+  {
+    "timestamp": "2025-06-18 23:50:56",
+    "gas_value": 391
+  },
+  {
+    "timestamp": "2025-06-18 23:50:57",
+    "gas_value": 379
+  },
+  {
+    "timestamp": "2025-06-18 23:51:00",
+    "gas_value": 365
+  }
+]

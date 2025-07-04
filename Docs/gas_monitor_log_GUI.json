@@ -1,0 +1,210 @@
+[
+  {
+    "timestamp": "2025-06-30 00:13:36",
+    "gas": 401,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 00:13:59",
+    "gas": 391,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "OFF",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 00:14:01",
+    "gas": 418,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "OFF",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 00:14:05",
+    "gas": 406,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "OFF",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 00:14:23",
+    "gas": 396,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "OFF",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:38:44",
+    "gas": 212,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:08",
+    "gas": 485,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:10",
+    "gas": 472,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:12",
+    "gas": 459,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:15",
+    "gas": 445,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:25",
+    "gas": 435,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:32",
+    "gas": 425,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:40",
+    "gas": 415,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:39:50",
+    "gas": 405,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:40:06",
+    "gas": 395,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:40:28",
+    "gas": 385,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:41:07",
+    "gas": 375,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:43:30",
+    "gas": 365,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:07",
+    "gas": 389,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:08",
+    "gas": 440,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:09",
+    "gas": 429,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:10",
+    "gas": 418,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:13",
+    "gas": 407,
+    "led": "ON",
+    "buzzer": "ON",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:18",
+    "gas": 397,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:33",
+    "gas": 387,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  },
+  {
+    "timestamp": "2025-06-30 02:44:48",
+    "gas": 377,
+    "led": "OFF",
+    "buzzer": "OFF",
+    "auto": "ON",
+    "threshold": 400
+  }
+]
